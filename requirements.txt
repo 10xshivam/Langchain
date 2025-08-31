@@ -3,7 +3,7 @@ langchain
 langchain-core
 
 # OpenAI Integration
-langchain-openai
+langchain-google-genai
 openai
 
 # Anthropic Integration
