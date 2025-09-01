@@ -32,3 +32,5 @@ chain = template | model | parser
 result = chain.invoke({'topic':'black hole'})
 
 print(result)
+
+# Here we cannot perform data validation on the output structure so we use a Pydantic Output Parser
